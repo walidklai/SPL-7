@@ -1,0 +1,6 @@
+{
+    "DB_PATH":"mongodb+srv://walid:1234@simplicity.ns7rf.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "MAILCHIMP_API_KEY":"7373e5c627ac52a6b23810f69023cc17-us1",
+    "LIST_ID":"8356b84e01"
+
+}
